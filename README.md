@@ -1,29 +1,16 @@
 ## 👋 Hi, I’m Luiz Arruda (@luizarrudaz)
 
-I’m a **Systems Developer** at **Noovi Cloud Experience**, working mainly with **IVR and contact center solutions**.
+Systems Developer at **Noovi Cloud Experience**, focused on **IVR and contact center solutions**.
 
-### 💼 What I do
-- Development and maintenance of **IVR systems** using **NICE CXone**
-- API integrations and system support
-- Backend-oriented problem solving and automation
+- 💻 IVR development with **NICE CXone**
+- 🔗 API integrations & backend automation
+- 🚀 Main stack: **C# / .NET**, **Docker**, **RabbitMQ**
+- ☁️ Currently learning **AWS**
 
-### 🚀 Tech interests
-- **C# / .NET**
-- **AWS** (learning & practice)
-- Messaging and async communication (**RabbitMQ**)
-- Containers and environments (**Docker**)
-
-### 🤝 Collaboration
-I’m open to collaborating on **small projects**, especially involving:
-- Backend services
-- Integrations
-- Messaging systems
-- Learning-oriented open-source projects
-
-### 📫 Contact
-You can reach me **right here on GitHub** 🙂
+🤝 Open to small backend and integration projects.  
+📫 Reach me right here on GitHub.
 
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=arch,docker,cs,dotnet,react,mysql,postman,rabbitmq,figma,obsidian,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,docker,cs,dotnet,mysql,postman,rabbitmq,vscode)](https://skillicons.dev)
